@@ -1,0 +1,32 @@
+{
+  "estimations": {
+    "eyes": {
+      "left": {
+        "lor": "left",
+        "r_sclera": 12.0,
+        "r_retina": 11.25,
+        "r_cornea": 7.8,
+        "horizontal_offset": 0,
+        "vertical_offset": 0,
+        "d_iris": 10.392304845413264,
+        "h_cornea": 5.40833052766242,
+        "r_iris": 6.0,
+        "r_pupil": 2.0,
+        "n_cornea": 1.3375
+      },
+      "right": {
+        "lor": "right",
+        "r_sclera": 12.0,
+        "r_retina": 11.25,
+        "r_cornea": 7.8,
+        "horizontal_offset": 0,
+        "vertical_offset": 0,
+        "d_iris": 10.392304845413264,
+        "h_cornea": 5.40833052766242,
+        "r_iris": 6.0,
+        "r_pupil": 2.0,
+        "n_cornea": 1.3375
+      }
+    }
+  }
+}

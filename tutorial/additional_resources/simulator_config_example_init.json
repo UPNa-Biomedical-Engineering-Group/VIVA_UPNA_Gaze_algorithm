@@ -1,0 +1,229 @@
+{
+  "glasses": {
+    "sensors_list": [
+      {
+        "ID": "Left_Temporal_Up",
+        "origin": [
+          -54.92739,
+          1.903961,
+          -1.129673
+        ],
+        "direction": [
+          22.92739,
+          0.096039,
+          -7.856841
+        ],
+        "lor": "left",
+        "scaling": 1.0,
+        "distance_std_noise": 0.1,
+        "velocity_std_noise": 0.4443
+      },
+      {
+        "ID": "Left_Temporal_Down",
+        "origin": [
+          -53.419206,
+          9.674605,
+          -2.288326
+        ],
+        "direction": [
+          21.419206,
+          -11.674605,
+          -6.698188
+        ],
+        "lor": "left",
+        "scaling": 1.0,
+        "distance_std_noise": 0.1,
+        "velocity_std_noise": 0.4443
+      },
+      {
+        "ID": "Left_Nasal_Down",
+        "origin": [
+          -14.525773,
+          19.27023,
+          0.90712
+        ],
+        "direction": [
+          -13.474227,
+          -21.27023,
+          -9.893634
+        ],
+        "lor": "left",
+        "scaling": 1.0,
+        "distance_std_noise": 0.1,
+        "velocity_std_noise": 0.4443
+      },
+      {
+        "ID": "Left_Nasal_Up",
+        "origin": [
+          -10.707885,
+          12.4254,
+          2.51088
+        ],
+        "direction": [
+          -17.292115,
+          -10.4254,
+          -11.497394
+        ],
+        "lor": "left",
+        "scaling": 1.0,
+        "distance_std_noise": 0.1,
+        "velocity_std_noise": 0.4443
+      },
+      {
+        "ID": "Right_Nasal_Up",
+        "origin": [
+          10.707885,
+          12.4254,
+          2.51088
+        ],
+        "direction": [
+          17.292115,
+          -10.4254,
+          -11.497394
+        ],
+        "lor": "right",
+        "scaling": 1.0,
+        "distance_std_noise": 0.1,
+        "velocity_std_noise": 0.4443
+      },
+      {
+        "ID": "Right_Nasal_Down",
+        "origin": [
+          14.525773,
+          19.27023,
+          0.90712
+        ],
+        "direction": [
+          13.474227,
+          -21.27023,
+          -9.893634
+        ],
+        "lor": "right",
+        "scaling": 1.0,
+        "distance_std_noise": 0.1,
+        "velocity_std_noise": 0.4443
+      },
+      {
+        "ID": "Right_Temporal_Down",
+        "origin": [
+          53.419206,
+          9.674605,
+          -2.288326
+        ],
+        "direction": [
+          -21.419206,
+          -11.674605,
+          -6.698188
+        ],
+        "lor": "right",
+        "scaling": 1.0,
+        "distance_std_noise": 0.1,
+        "velocity_std_noise": 0.4443
+      },
+      {
+        "ID": "Right_Temporal_Up",
+        "origin": [
+          54.92739,
+          1.903961,
+          -1.129673
+        ],
+        "direction": [
+          -22.92739,
+          0.096039,
+          -7.856841
+        ],
+        "lor": "right",
+        "scaling": 1.0,
+        "distance_std_noise": 0.1,
+        "velocity_std_noise": 0.4443
+      }
+    ],
+    "noise_sensor_model": "global_constant",
+    "global_distance_std_noise": 0.1,
+    "global_velocity_std_noise": 0.4443,
+    "freq": 1000,
+    "location_R": [
+      [
+        1,
+        0,
+        0
+      ],
+      [
+        0,
+        1,
+        0
+      ],
+      [
+        0,
+        0,
+        1
+      ]
+    ],
+    "location_T": [
+      0,
+      0,
+      19.378819
+    ]
+  },
+  "user": {
+    "eyes": {
+      "left": {
+        "lor": "left",
+        "r_sclera": 12.0,
+        "r_retina": 11.25,
+        "r_cornea": 7.8,
+        "horizontal_offset": 0,
+        "vertical_offset": 0,
+        "d_iris": 10.392304845413264,
+        "h_cornea": 5.40833052766242,
+        "r_iris": 6.0,
+        "r_pupil": 2.0,
+        "n_cornea": 1.3375,
+        "location": [
+          -30,
+          0,
+          0
+        ],
+        "visual_axis": [
+          0,
+          0,
+          1
+        ],
+        "optical_axis": [
+          0,
+          0,
+          1
+        ]
+      },
+      "right": {
+        "lor": "right",
+        "r_sclera": 12.0,
+        "r_retina": 11.25,
+        "r_cornea": 7.8,
+        "horizontal_offset": 0,
+        "vertical_offset": 0,
+        "d_iris": 10.392304845413264,
+        "h_cornea": 5.40833052766242,
+        "r_iris": 6.0,
+        "r_pupil": 2.0,
+        "n_cornea": 1.3375,
+        "location": [
+          30,
+          0,
+          0
+        ],
+        "visual_axis": [
+          0,
+          0,
+          1
+        ],
+        "optical_axis": [
+          0,
+          0,
+          1
+        ]
+      }
+    }
+  },
+  "is_noisy": true
+}
