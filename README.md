@@ -8,10 +8,7 @@ This repository contains a Python-based gaze simulation and estimation toolkit.
     <p style="text-align: center;"><em>Simulated eyes</em></p>
   </div>
   <div style="flex: 1;">
-    <video width="100%" autoplay loop muted style="border-radius: 8px;">
-      <source src="figures/TM_video.mp4" type="video/mp4">
-      Your browser does not support the video tag.
-    </video>
+    <img src="figures/TM_video.gif" alt="Eye movement simulation" width="100%"/>
     <p style="text-align: center;"><em>Gaze tracking demonstration</em></p>
   </div>
 </div>
