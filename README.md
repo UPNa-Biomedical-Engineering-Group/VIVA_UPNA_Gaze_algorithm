@@ -46,3 +46,7 @@ The repository is organized so that shared simulator assets live in `resources/`
 - `resources/`: library resources used by the simulator
 - `tutorial/tutorial.ipynb`: interactive tutorial and usage example
 - `tutorial/additional_resources/`: tutorial-only configuration examples
+
+## Acknowledgments
+
+VIVA Project UE and by the Chips Joint Undertaking and its members (including top-up funding by Germany, Netherlands, Sweden and Denmark) Grant No. 101139942 
