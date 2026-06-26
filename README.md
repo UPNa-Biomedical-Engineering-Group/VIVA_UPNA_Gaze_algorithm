@@ -50,3 +50,11 @@ The repository is organized so that shared simulator assets live in `resources/`
 ## Acknowledgments
 
 VIVA Project UE and by the Chips Joint Undertaking and its members (including top-up funding by Germany, Netherlands, Sweden and Denmark) Grant No. 101139942 
+<div style="display: flex; gap: 20px; align-items: center;">
+  <div style="flex: 1;">
+    <img src="figures/logos/full logo .png" alt="Chips JU logo" width="40%"/>
+  </div>
+  <div style="flex: 1;">
+    <img src="figures/logos/VIVA LOGO_BLACK.png" alt="VIVA logo" width="40%"/>
+  </div>
+</div>
